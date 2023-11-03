@@ -11,13 +11,6 @@ Responsive Design: Works flawlessly on desktop and mobile devices.
 Usage
 To use this SpeechToText component in your Power Apps application, follow these steps:
 
-**Clone the Repository:**
-
-bash
-Copy code
-git clone https://github.com/your-username/SpeechToText.git
-Build and Deploy the Component:
-
 **Build the project using your preferred build tools.**
 Deploy the generated solution file in your Power Apps environment.
 Add the Component to Your App:
