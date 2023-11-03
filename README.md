@@ -37,3 +37,6 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 This project is licensed under the MIT License - see the LICENSE file for details.<br><br>
 
 Feel free to modify the content based on your specific use case and project details. Make sure to update the installation steps and prerequisites based on the actual requirements of your component.
+
+Reach me out incase any queries. 
+mail:sameerjakkali@gmail.com
