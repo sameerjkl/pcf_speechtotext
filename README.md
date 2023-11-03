@@ -1,11 +1,11 @@
 **SpeechToText Web Component**<br>
 
-SpeechToText is a custom web component built using the Power Apps Component Framework (PCF). This component enables users to convert speech to text in real-time within a web application. It provides a user-friendly interface for capturing audio input, transcribing it into text, and allowing users to select the desired language for transcription.<br><br>
+SpeechToText is a custom web component built using the Power Apps Component Framework (PCF). This component enables users to convert speech to text in real-time within a canvas application. It provides a user-friendly interface for capturing audio input, transcribing it into text, and allowing users to select the desired language for transcription.<br><br>
 
 **Features**<br>
 Real-time Speech to Text: Convert spoken words into text in real-time.<br>
 Language Selection: Choose from multiple languages for accurate transcription.<br>
-Easy Integration: Seamlessly integrate the component into your web applications.<br>
+Easy Integration: Seamlessly integrate the component into canvas applications.<br>
 Customizable: Customize the component's appearance and behavior to suit your needs.<br>
 Responsive Design: Works flawlessly on desktop and mobile devices.<br><br>
 
