@@ -9,6 +9,7 @@ Easy Integration: Seamlessly integrate the component into your web applications.
 Customizable: Customize the component's appearance and behavior to suit your needs.
 Responsive Design: Works flawlessly on desktop and mobile devices.
 Usage
+
 To use this SpeechToText component in your Power Apps application, follow these steps:
 
 **Build the project using your preferred build tools.**
