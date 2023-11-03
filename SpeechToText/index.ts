@@ -321,10 +321,6 @@ label {
     };
   }
 
-  /**
-   * Called when the control is to be removed from the DOM tree. Controls should use this call for cleanup.
-   * i.e. cancelling any pending remote calls, removing listeners, etc.
-   */
   public destroy(): void {
     // Add code to cleanup control if necessary
   }
