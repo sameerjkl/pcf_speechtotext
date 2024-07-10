@@ -22,6 +22,12 @@ Add a new component and select "SpeechToText" from the available components.<br>
 **Configure Component Properties:**<br>
 Configure the language and other settings for the component as per your requirements.<br><br>
 
+Use the latest solution: PowerAppsTools_pgpcf_1_7.zip
+
+Onchange of PCF set a variable. Set(varCapturedValue, Self.TextVal)
+
+Note: The text will always capture on stop icon press to the variable from onchange property
+
 **Start Transcribing:**<br>
 Click the microphone button to start transcribing speech to text in real-time.<br><br>
 **Prerequisites**<br>
